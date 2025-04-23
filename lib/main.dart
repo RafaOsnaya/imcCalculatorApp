@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:imc_calculator_app/components/height_selector.dart';
 import 'package:imc_calculator_app/core/app_colors.dart';
 import 'package:imc_calculator_app/screens/imc_home_screen.dart';
 
